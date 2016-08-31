@@ -4,7 +4,7 @@ https://www.nexojornal.com.br/grafico/2016/05/02/Da-hiperinfla%C3%A7%C3%A3o-%C3%
 
 Baseando-me nesse viz, farei uma interativa usando D3.
 
-Fontes:
+###Fontes:
 
 Inflação IPCA (1994-2016) - http://www.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/defaultseriesHist.shtm
 
